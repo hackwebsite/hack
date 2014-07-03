@@ -17,6 +17,9 @@ http://wellgems.com/data/mysql_error_trace.inc
 3.Dedecms /plus/download.php URL redirect
 http://wellgems.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
 
+------------------------------------------------------------------------------------------
+利用信息
+www.wellgems.com:8888/index.php?m=Public&a=login
 ----------------------------------------------------------------------------------------------------------
 PORT     STATE  SERVICE VERSION
 21/tcp   open   ftp     Pure-FTPd
@@ -25,3 +28,17 @@ PORT     STATE  SERVICE VERSION
 8888/tcp open   http    Apache httpd 2.2.22 ((Unix) PHP/5.2.17p1)
 Aggressive OS guesses: Linux 3.0 - 3.9 (93%), Linux 2.6.32 - 3.1 (92%), Linux 2.6.32 - 2.6.39 (91%), Linux 2.6.39 (91%), HP P2000 G3 NAS device (90%), Linux 2.6.32 - 3.6 (90%), Linux 2.6.32 - 3.9 (89%), Linux 3.3 (88%), OpenWrt 12.09-rc1 Attitude Adjustment (Linux 3.3 - 3.7) (88%), Linux 3.0 (88%)
 No exact OS matches for host (test conditions non-ideal).
+------------------------------------------------------------------------------------------------
+
+
+旁站信息
+-----------------
+site1：www.520tongxin.com            DEDECMS   
+TimeStamp: 20140228, Possible Version: V5.7SP1
+http://www.520tongxin.com/data/mysql_error_trace.inc
+DedeCms variable SQL Injection  有注入
+http://www.520tongxin.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
+
+------------------------------
+site2：http://ygke.com/license.txt                        WordPress 3.8.3
+http://ygke.com/license.txt
