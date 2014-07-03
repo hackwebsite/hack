@@ -1,0 +1,62 @@
+testsite:www.xxlg.cn            ip:61.143.210.240                      旁站：43个
+开放端口   
+22/tcp    filtered ssh
+25/tcp    filtered smtp
+80/tcp    open     http               Microsoft IIS httpd 6.0
+83/tcp    open     http               Rhinosoft Serv-U httpd 7.3.0.0
+110/tcp   open     pop3               WinWebMail pop3d 3.8.1.3
+135/tcp   filtered msrpc
+443/tcp   open     ssl/http           Rhinosoft Serv-U httpd 7.3.0.0                     
+445/tcp   filtered microsoft-ds
+465/tcp   filtered smtps
+587/tcp   filtered submission
+990/tcp   open     ftp                Serv-U ftpd 7.3
+1029/tcp  open     msrpc              Microsoft Windows RPC
+1122/tcp  open     http               Microsoft IIS httpd 6.0
+1433/tcp  filtered ms-sql-s
+2121/tcp  open     http               Microsoft IIS httpd 6.0
+2323/tcp  open     http               Microsoft IIS httpd 6.0
+3306/tcp  open     mysql              MySQL (unauthorized)
+4444/tcp  filtered krb524
+4445/tcp  filtered upnotifyp
+4662/tcp  filtered edonkey
+5900/tcp  filtered vnc
+6881/tcp  filtered bittorrent-tracker
+6969/tcp  filtered acmsoda
+65000/tcp open     ftp                Serv-U ftpd 7.3
+web server operating system: Windows 2003 or XP
+Email[ligong0766@163.com], HTTPServer[Microsoft-IIS/6.0], IP[61.143.210.240], Microsoft-IIS[6.0]
+Object["http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0]["clsid:D27CDB6E-AE6D-11cf-96B8-444553540000]
+Script[JavaScript,JavaScript1.2,text/javascript], Title[%D0%C2%D0%CB%C0%ED%B9%A4%D1%A7%D0%A3], X-Powered-By[ASP.NET]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BUG：
+
+1.IIS Short File/Folder Name Disclosure
+2.注入点http://www.xxlg.cn/CompHonorBig.asp?id=61     有360防火墙 自己绕过，尝试用POST
+
+---------------------------------------------------------------------------------------------------------------------------
+目录
+http://www.xxlg.cn/UserReg.asp
+http://www.xxlg.cn/image.asp
+http://www.xxlg.cn/admin/Login.asp
+http://61.143.210.240:1122/admin.php
+http://www.xxlg.cn/admin/SouthidcEditor/ewebeditor.asp          //南方数据
+http://www.xxlg.cn/admin/southidceditor/popup.asp
+http://www.xxlg.cn/admin/southidceditor/admin
+http://61.143.210.240:2323/license.php                      //phpMyAdmin
+http://61.143.210.240:1122/uc_server/admin.php
+http://61.143.210.240:159/system/eWebEditor/asp/upload.asp
+--------------------------------------------------------------------------------
+其他利用信息 
+username:admin     
+http://61.143.210.240:159/system/Admin_Login.Asp   动易系统
+http://61.143.210.240:1122/                        Discuz! X3.1
+D:\web\wwwroot\Discuz3.1\source\plugin\mobile\api\1\index.php
+http://61.143.210.240:159/system/eWebEditor/ewebeditor.htm
+http://www.xxlg.cn/upload_Dialog.asp
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
