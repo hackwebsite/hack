@@ -39,7 +39,18 @@ http://www.520tongxin.com/data/mysql_error_trace.inc
 DedeCms variable SQL Injection  有注入
 http://www.520tongxin.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
 
+
+
 ------------------------------
 site2：http://ygke.com/license.txt                        WordPress 3.8.3
 http://ygke.com/license.txt
 http://ygke.com/wp-admin/
+-------------------------------------------------------------------
+site3:www.paojiaomutong.com
+80 => [www]; Ver => [('Server', 'ASERVER/1.2.9-3'), ('X-Powered-By-Anquanbao', 'MISS from dds-wf-gw-8b6')]
+443 => [ssl]; Ver => [('Server', 'ASERVER/1.2.9-3'), ('X-Powered-By-Anquanbao', 'MISS from dds-wf-gw-8b6')]
+http://www.paojiaomutong.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
+
+BUG1 
+DedeCms 5.x Path Disclosure
+/home/ftp/1520/paojiao_com-20131227-xol/paojiaomutong.com/plus/
