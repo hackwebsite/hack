@@ -13,3 +13,6 @@ BUG
 
 2.Dedecms Path Disclosure
 http://wellgems.com/data/mysql_error_trace.inc
+
+3.Dedecms /plus/download.php URL redirect
+http://wellgems.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
