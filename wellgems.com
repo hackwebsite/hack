@@ -47,6 +47,7 @@ http://ygke.com/license.txt
 http://ygke.com/wp-admin/
 -------------------------------------------------------------------
 site3:www.paojiaomutong.com
+TimeStamp: 20140313, Possible Version: V5.7SP1
 80 => [www]; Ver => [('Server', 'ASERVER/1.2.9-3'), ('X-Powered-By-Anquanbao', 'MISS from dds-wf-gw-8b6')]
 443 => [ssl]; Ver => [('Server', 'ASERVER/1.2.9-3'), ('X-Powered-By-Anquanbao', 'MISS from dds-wf-gw-8b6')]
 http://www.paojiaomutong.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
