@@ -42,3 +42,4 @@ http://www.520tongxin.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5j
 ------------------------------
 site2：http://ygke.com/license.txt                        WordPress 3.8.3
 http://ygke.com/license.txt
+http://ygke.com/wp-admin/
