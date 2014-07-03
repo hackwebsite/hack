@@ -16,3 +16,12 @@ http://wellgems.com/data/mysql_error_trace.inc
 
 3.Dedecms /plus/download.php URL redirect
 http://wellgems.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
+
+----------------------------------------------------------------------------------------------------------
+PORT     STATE  SERVICE VERSION
+21/tcp   open   ftp     Pure-FTPd
+80/tcp   open   http    nginx 1.0.15
+631/tcp  closed ipp
+8888/tcp open   http    Apache httpd 2.2.22 ((Unix) PHP/5.2.17p1)
+Aggressive OS guesses: Linux 3.0 - 3.9 (93%), Linux 2.6.32 - 3.1 (92%), Linux 2.6.32 - 2.6.39 (91%), Linux 2.6.39 (91%), HP P2000 G3 NAS device (90%), Linux 2.6.32 - 3.6 (90%), Linux 2.6.32 - 3.9 (89%), Linux 3.3 (88%), OpenWrt 12.09-rc1 Attitude Adjustment (Linux 3.3 - 3.7) (88%), Linux 3.0 (88%)
+No exact OS matches for host (test conditions non-ideal).
