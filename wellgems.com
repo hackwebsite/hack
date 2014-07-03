@@ -51,7 +51,8 @@ TimeStamp: 20140313, Possible Version: V5.7SP1
 80 => [www]; Ver => [('Server', 'ASERVER/1.2.9-3'), ('X-Powered-By-Anquanbao', 'MISS from dds-wf-gw-8b6')]
 443 => [ssl]; Ver => [('Server', 'ASERVER/1.2.9-3'), ('X-Powered-By-Anquanbao', 'MISS from dds-wf-gw-8b6')]
 http://www.paojiaomutong.com/plus/download.php?open=1&link=aHR0cDovL3d3dy5iYWlkdS5jb20%3D
-
+http://www.paojiaomutong.com/dede/
+http://www.paojiaomutong.com/install/
 BUG1 
 DedeCms 5.x Path Disclosure
 /home/ftp/1520/paojiao_com-20131227-xol/paojiaomutong.com/plus/
