@@ -5,6 +5,8 @@ Object["application/x-shockwave-flash]["clsid:D27CDB6E-AE6D-11cf-96B8-4445535400
 Script[text/javascript], Title[Wellgems %CD%FE%BD%E0%CA%BF], UncommonHeaders[thanks]
 nginx[1.0.15]
 
+DEDECMS
+TimeStamp: 20130922, Possible Version: V5.6-Final
 -------------------------------------------------------
 BUG
 1.DedeCms variable SQL Injection  //擦鸡巴阿，有注入
